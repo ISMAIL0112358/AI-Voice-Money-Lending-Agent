@@ -1,6 +1,6 @@
 # 6. Activity Diagram: The Conversational State Machine
 
-![alt text](Activity-Diagram.png)
+![alt text](../assets/Activity-Diagram.png)
 
 ```mermaid
 stateDiagram-v2

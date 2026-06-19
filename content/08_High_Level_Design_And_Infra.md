@@ -4,7 +4,7 @@ The architecture decouples the telephony streaming from the backend processing, 
 
 ### 8.1 System Architecture Diagram
 
-![alt text](HLD.png)
+![alt text](../assets/HLD.png)
 
 ```mermaid
 %%{init: {"layout": "elk","themeVariables":{"spacing":50}}}%%

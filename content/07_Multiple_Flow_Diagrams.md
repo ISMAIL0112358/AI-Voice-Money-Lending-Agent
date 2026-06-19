@@ -2,7 +2,7 @@
 
 ### 7.1 The Happy Path (Successful Pre-Qualification)
 
-![alt text](Happy-path.png)
+![alt text](../assets/Happy-path.png)
 
 ```mermaid
 sequenceDiagram
@@ -32,7 +32,7 @@ sequenceDiagram
 ### 7.2 Continuous Learning RAG & HITL Expert Workflow
 
 
-![alt text](<seq-Continuous Learning RAG & HITL Expert Workflow.png>)
+![alt text](<../assets/seq-Continuous Learning RAG & HITL Expert Workflow.png>)
 
 ```mermaid
 sequenceDiagram
@@ -69,7 +69,7 @@ sequenceDiagram
 
 ### 7.3 The 3-Strike Escalation Flow
 
-![alt text](<The 3-Strike Escalation Flow.png>)
+![alt text](<../assets/The 3-Strike Escalation Flow.png>)
 
 
 ```mermaid
